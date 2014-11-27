@@ -1,4 +1,4 @@
-Lavender Theme for NodeBB
+Expii Lavender Theme for NodeBB
 =========================
 
 A simple theme for NodeBB. Check out the theming guide that accompanies this work at http://burnaftercompiling.com/nodebb/nodebb-hands-on-theming-guide-part-1/
@@ -20,7 +20,7 @@ A simple theme for NodeBB. Check out the theming guide that accompanies this wor
 
 ## Installation
 
-    npm install nodebb-theme-lavender
+    npm install nodebb-theme-expii
 
 
 ## Credits
